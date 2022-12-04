@@ -3,6 +3,8 @@
 
 #include <set>
 #include <string>
+#include<vector>
+
 
 /**
  * @brief Returns the list of all legal words in the provided dictionary
